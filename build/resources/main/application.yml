@@ -1,0 +1,10 @@
+server:
+  port: 7777
+
+datasource:
+  dataType: cubrid
+  hostname: "HOSTNAME"
+  db-name: "DBNAME"
+  username: "USERNAME"
+  password: "PASSWORD"
+  port: "PORT"
